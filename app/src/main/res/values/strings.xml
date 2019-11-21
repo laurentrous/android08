@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">parcelable</string>
+    <string name="btnGo">GO !</string>
+</resources>
